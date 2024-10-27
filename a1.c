@@ -6,4 +6,4 @@ int main()
     return 0;
 }
 
-//Print an integer and scan integer
+//Print an integer

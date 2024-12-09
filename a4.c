@@ -13,4 +13,4 @@ int main()
     return 0;
 }
 
-//Read two integers from the user and print their addition, subtraction and multiplication.
+//Read two integers from the user and print their addition, subtraction and multiplication

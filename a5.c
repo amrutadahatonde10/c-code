@@ -12,4 +12,4 @@ int main()
     return 0;
 }
 
-//swap two numbers using a third variable
+//swap two numbers using a third variable.

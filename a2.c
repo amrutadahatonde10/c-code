@@ -8,4 +8,4 @@ int main()
     return 0;
 }
 
-//Read an integer from the user and print it
+//Read an integer from the user and print it.

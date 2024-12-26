@@ -8,4 +8,4 @@ int main()
     return 0;
 }
 
-//swap two numbers without using third variable.
+//swap two numbers without using third variable

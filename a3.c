@@ -10,4 +10,4 @@ int main()
     return 0;
 }
 
-//Read two integers from the user and print it
+//Read two integers from the user and print it.

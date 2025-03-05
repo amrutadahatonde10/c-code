@@ -8,7 +8,7 @@ int main(){
     }
     else if(marks > 35 && marks <= 100){
         printf("Pass \n");
-    }
+    } 
     else {
         printf("Wrong Marks");
     }

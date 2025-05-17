@@ -14,7 +14,7 @@ int main() {
                 isPrime = 0;
                 break;
             }
-        }
+        } 
     }
 
     if (isPrime) {

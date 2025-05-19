@@ -4,7 +4,7 @@ int main()
     int i,j;
     printf("Enter an integer i,j =");
     scanf("%d , %d", &i , &j);
-    printf("i=%d",i);
+    printf("i=%d",i); 
     return 0;
 }
 

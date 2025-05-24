@@ -13,7 +13,7 @@ int main(){
         if (num[i] % 2 == 0) {
             sum += num[i];
         }
-    }
+    } 
 
     printf("The sum of even number is: %d\n", sum);
 

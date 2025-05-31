@@ -5,7 +5,7 @@ int main()
  
     printf("Enter the charcter: ");
     scanf(" %c", &ch);  
-
+ 
     printf("You entered : %c\n", ch);
 }
 

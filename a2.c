@@ -5,7 +5,7 @@ int main()
     printf("Enter the integer: ");
     scanf("%d", &num);
     printf("You entered: %d\n", num);
-    return 0;
+    return 0; 
 }
 
 //Read an integer from the user and print it.

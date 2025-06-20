@@ -3,7 +3,7 @@
 int main() {
     int num, isPrime = 1;
 
-    printf("Enter a positive integer: ");  
+    printf("Enter a positive integer: ");   
     scanf("%d", &num);
  
     if (num <= 1) {

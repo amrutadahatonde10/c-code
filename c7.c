@@ -4,7 +4,7 @@ int main()
     float f;
  
     printf("Enter floating-point number:");
-    scanf("%f", &f);
+    scanf("%f", &f); 
 
     printf("The number with two decimal places %.2f\n",f);
 

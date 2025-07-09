@@ -6,7 +6,7 @@ int main()
     scanf("%d" ,&num1);
     printf("Enter the 2nd integer: ");
     scanf("%d" ,&num2); 
-    printf("Add: %d\n" , num1 + num2);
+    printf("Add: %d\n" , num1 + num2); 
     printf("Sub: %d\n" , num1 - num2);
     printf("Mult: %d\n" , num1 * num2);
 

@@ -7,5 +7,5 @@ int main()
 }   
      
  
-//Print an integer 
+//Print an integer  
  

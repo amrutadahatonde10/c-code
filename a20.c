@@ -5,7 +5,7 @@ int main(){
     scanf("%d", &marks);
     if(marks >= 0 && marks <= 35){ 
         printf("Fail \n");
-    }
+    } 
     else if(marks > 35 && marks <= 100){
         printf("Pass \n");
     } 
@@ -16,3 +16,4 @@ int main(){
 }
 
 //write a program to check if a student passed or failed.
+

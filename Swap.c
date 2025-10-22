@@ -3,7 +3,7 @@ int main()
 { 
     int a,b;
 
-    printf("Enter variable:");
+    printf("Enter variable:"); 
     scanf("%d %d", &a, &b);
 
 printf("before swapping: a=%d, b=%d\n", a, b);

@@ -5,7 +5,7 @@ int main()
     printf("The number is %d\n" , a);
     return 0; 
 }    
-      
+       
  
 //Print an integer  
  

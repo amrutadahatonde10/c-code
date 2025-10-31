@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    float f;
+    float f; 
  
     printf("Enter floating-point number:");
     scanf("%f", &f); 
@@ -12,3 +12,4 @@ int main()
 } 
 
 //create a program that reads a floating-point number from the user and prints it with two decimal places.
+

@@ -6,6 +6,6 @@ int main()
     return 0; 
 }     
        
- 
+  
 //Print an integer  
  

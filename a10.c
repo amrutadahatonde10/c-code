@@ -8,5 +8,5 @@ int main()
  
     printf("You entered : %c\n", ch);
 }
-
+ 
 //Program to read a character from a user, assign it to a variable and print it 

@@ -2,7 +2,7 @@
 int main()
 { 
     int a,b;
-
+ 
     printf("Enter variable:"); 
     scanf("%d %d", &a, &b);
 
@@ -17,3 +17,4 @@ printf("After swapping: a=%d, b=%d\n", a,b);
 return 0;
 
 }
+
